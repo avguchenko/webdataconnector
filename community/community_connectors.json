@@ -315,6 +315,15 @@
         "source_code": "https://github.com/interworks-morr/wdc-stock-price-history"
     },
     {
+        "name": "TeamDesk",
+        "url": "https://avguchenko.github.io/TeamdeskWDC.html",
+        "author": "Anton Avguchenko",
+        "github_username": "avguchenko",
+        "tags": ["v_2.1"],
+        "description": "Connect Tableau to your Teamdesk data",
+        "source_code": "https://github.com/avguchenko/avguchenko.github.io"
+    },
+    {
         "name": "Tfl BikesPoint",
         "url": "http://jdunkerleytableau.azurewebsites.net/Bikes",
         "author": "James Dunkerley",
